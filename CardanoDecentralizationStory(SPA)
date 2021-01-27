@@ -1,0 +1,75 @@
+Cardano Decentralization Story
+
+
+ The Goal 
+One of the fundamental tenants of the Cardano story is decentralization.  Cardano aims to truly and globally decentralize its network over a thousand times more than Bitcoin.  The goal of a truly decentralized blockchain network is to prevent a single point of failure that shuts down the entire system. If Cardano achieved such a decentralization goal, its blockchain would be resilient against attacks by a national government, colluding parties, malicious hackers, or even the creators of the Cardano. 
+
+
+The Tool To Accomplish the Goal
+With this goal, Cardano created one of the most advanced, evidence-based, and rigorously tested Proof of Stake protocol, Ouroboros. Ouroboros can truly and globally decentralized the Cardano blockchain. However, Ouroboros depends on its human elements (stake pools operators and staking delegates) to make a healthy decision when attempting to decentralize the network. To be highly effective, Ouroboros needs human participants to make an educated and informed decision supporting decentralization. This powerful tool needs its participant to do the right
+
+The Resulting Problematic Trend
+[SPA gathered this information from PoolTool.io during Epoch 219] 
+***Numbers are constantly changing* So we need to aggregate this information in real-time for SPA to be credible and not misleading.***
+
+Though the Shelley era is in its early stages, the current trend on the road to full and true decentralization seems to be mired by human ingenuity to game the protocol.  To maximize their monetary returns, some of Ouroboros' human participants (stake pool owners and delegates) are making unhealthy and uninformed decisions.  These participants are selecting returns maximization at the risks of unhealthy decentralization. The ratio of stake pools writing 51.49% of blocks reflects this unhealthy decentralization. Considering only non-federated stake pools, the ratio of stake pools controlling at least 51% of all delegated stake is about 50 stake pools out of more than 1100. Even worse, eleven (11) entities own these 50 or so stake pools. A 51% controlling stake is the rate at which malicious colluding parties can compromise a blockchain ledger. Just ten (11) entities out of the more than 1100 stake pools collective have this ability.
+ About 100 stake pools of the more than 1100 stake pools control 70% of the delegated stakes. Twenty-six (26) entities owned these 100 pools.
+If not mitigated, this disturbing trend will doom real decentralization of the Cardano network. Cardano set out to solve the problem of decentralization. The current trend shows that they are not. 
+
+
+Source of the Problems
+Great marketing and strong branding help these 100 above-mentioned stake pools to amass huge controlling staked delegates. However, Ouroboros’ Saturation Point perimeter should have restricted or countered each entity from unilaterally acquiring such a substantial controlling stake. So, how do these 26 entities amass so much controlling stake despite saturation restriction? The answer is simple. Each of these entities operates multiple stake pools, ora Pool Farms. Of the more than 1100 stake pools, 26 entities own the 99 stake pools that control 70% of all delegated stake on the network. 
+
+Need infographic of some kind to represent these numbers: Numbers are from Pool tools
+
+As of 09/26/2020 (Epoch: 219), the “non-federated” portion of the Cardano blockchain has 1117 stake pools and 15.98 billion delegated stake, according to PoolTool.io. Eleven (11) entities control 51.49% of the delegated stake. Mathematically speaking (not in any way insinuating that these entities are malicious…certainly not), it takes just 11 entities to perform a 51% attack assuming that the “non-federated” portion of the network is non-existent. Ingeniously, IOG has it. 
+Twenty-six (26) entities control 70.65% of the total network delegated stake, while the remaining 1000 or more controls  29.354%. Of the 26 entities that control 70.65%, 22 of these entities are Pool Farms. These 22 entities operate 99 pools. They each have more than one pool. 
+Example of infographics needed
+
+
+
+
+The Perils
+Shut down 26 entities instantly, and you immediately silence 70.65% of the Cardano “non-federated” network. Such an appearance of decentralization is not True Decentralization. The entire Cardano blockchain network is at the mercy of 26 entities, even though there are 1117 stake pools.
+It takes only 11 entities to collude to implement a 51% attack. Luckily these current entities are not malicious actors so far. Also, we currently have the federated network protecting Cardano    
+
+The Solution
+The Single Pool Alliance, SPA, has positioned itself as a potential solution that promotes true and diverse decentralization. The solution presented by Single Pool Alliance, SPA is two-fold:
+A one-to-one (1:1) (stake pool owner to stake pool) will significantly increase true and diverse decentralization for the Cardano network. This 1 to 1 ratio (one entity to one stake pool) will guarantee that 100 stake pool will have 100 separate entities. The one-to-one (1:1) ratio eliminates the “one to many” problem in which shutting down a single entity results in the loss of multiple stake pools from the network.  
+
+
+While it is extremely difficult (if not impossible) to police the number of stake pools owned by a single entity, the actual power brokers (Stake Delegates) of the Cardano blockchain can quickly and efficiently remedy this unhealthy decentralization problem. Delegates can distribute their stake to pools that follow the single-owner-single-pool protocol.  As part of this solution, the Cardano community needs to educate both current and potential delegates to make a more informed decision.   
+
+Who are the Single Pool Alliance (SPA)
+The Single Pool Alliance, SPA, is an alliance of Cardano stake pool operators who have honorably, unselfishly, and publicly vowed to each run a single Cardano stake pool. The SPA'’s primary goal to promote True Decentralization for the Cardano blockchain. 
+Each of our members has willingly and consciously decided to forego the potential income from running a second stake pool, even its stake pool reaches the Cardano saturation point. Our members have prioritized true decentralization over the maximization of profit or return.  
+
+SPA Goal
+The primary goal of the Single Pool Alliance (SPA) is to empower Cardano staking delegates to better protect the network by delegating to pool operators who each own and operate a single Cardano stake pool. SPA intends to accomplish this goal by directly educating Cardano staking delegates about the importance of delegating stake to a SPA pool.
+  
+
+Ensuring SPA 1:1 ratio [Single-Owner-Single-Pool]
+While it is complicated (if not impossible), SPA attempt to ensure that a stake pool operator (SPO) runs a single pool through several means
+Honor system – each member signed a public statement vowing that their stake pool brand/owner will operate a single pool in the Cardano ecosystem. Based on this statement, the entire community can hold them accountable to its vow.
+
+
+Self-Policing by SPA members – SPA tasks each of its members to protect the SPA brand by reporting any member suspected of running, marketing, or soliciting delegates for a second pool.  SPA will eject any member found running a second pool.
+
+
+Community Crowd Alert – we rely on community stake delegates to alert SPA if they see any SPA listed members running a second pool. 
+
+Why should each and every delegatee care about decentralization and SPA?
+Every delegate should care about decentralization because a 51% attack on the Cardano blockchain would exponentially wipe-out or depreciate the monetary-asset value ADA held by each respective delegate. So preventing a 51% attack on Cardano should be on the mind of every ADA holder (AKA delegate). SPA pools (if delegated to) exponentially prevents a 51% attack from occurring.
+
+Where can I identify SPA Pools to delegate my stake?
+https://singlepoolalliance.net/ 
+
+
+
+
+
+
+
+
+
+
